@@ -1,0 +1,5 @@
+{"request_id": "req_9d176d", "duration_sec": 1.777, "sample_count": 18, "cpu_avg_pct": 8.21, "cpu_max_pct": 20.3, "ram_avg_gb": 12.7, "ram_max_gb": 12.71, "vram_avg_gb": 0.72, "vram_max_gb": 0.72, "gpu_util_avg_pct": 39.33}
+{"request_id": "req_a25f89", "duration_sec": 1.775, "sample_count": 18, "cpu_avg_pct": 5.35, "cpu_max_pct": 24.0, "ram_avg_gb": 12.84, "ram_max_gb": 12.87, "vram_avg_gb": 0.72, "vram_max_gb": 0.72, "gpu_util_avg_pct": 29.0}
+{"request_id": "req_e788b2", "duration_sec": 2.831, "sample_count": 28, "cpu_avg_pct": 5.77, "cpu_max_pct": 20.5, "ram_avg_gb": 12.8, "ram_max_gb": 12.81, "vram_avg_gb": 0.72, "vram_max_gb": 0.72, "gpu_util_avg_pct": 12.25}
+{"request_id": "req_1152b6", "duration_sec": 1.256, "sample_count": 13, "cpu_avg_pct": 3.56, "cpu_max_pct": 6.8, "ram_avg_gb": 12.56, "ram_max_gb": 12.57, "vram_avg_gb": 0.72, "vram_max_gb": 0.72, "gpu_util_avg_pct": 26.46}
+{"request_id": "req_998bef", "duration_sec": 1.145, "sample_count": 12, "cpu_avg_pct": 4.04, "cpu_max_pct": 7.7, "ram_avg_gb": 12.66, "ram_max_gb": 12.69, "vram_avg_gb": 0.72, "vram_max_gb": 0.72, "gpu_util_avg_pct": 13.67}
